@@ -8,3 +8,6 @@ Il perchè del modulo be.stemmia ha radici storiche, tutto nacque con i Guelfi e
 ##Il Modulo offende le religioni
 l'intenzione di questo modulo non è quella di offendere nessuno,
 nasce dalla costante che il dev bestemmia, ed è pigro... questo connubio ha fatto nascere l'idea !!!
+
+##Come si usa ?
+![alt tag](https://raw.githubusercontent.com/Pinperepette/be.stemmia/master/immage/Schermata%202015-12-20%20alle%2017.19.05.png)
