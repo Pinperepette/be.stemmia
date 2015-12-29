@@ -15,6 +15,7 @@ def singola_bestemmia():
 
 	random_bestemmia = randrange(0,len(bestemmia))
 	print bestemmia[random_bestemmia]
+	return bestemmia[random_bestemmia]
 
 def stemmia(numero=1):
 	cristoni = range(0,numero)
