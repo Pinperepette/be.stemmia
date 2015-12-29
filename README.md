@@ -13,3 +13,6 @@ nasce dalla costante che il dev bestemmia, ed è pigro... questo connubio ha fat
 ![alt tag](https://raw.githubusercontent.com/Pinperepette/be.stemmia/master/image/Schermata%202015-12-20%20alle%2017.19.05.png)
 ## Utile in fase di debug
 Ti sarà capitato di far printare qualcosa in fase di debug... nell 99% dei casi hai usato una bestemmia o una parolaccia
+
+## Altri esempi - Bot Telegram che Bestemmia :)
+![alt tag](https://raw.githubusercontent.com/Pinperepette/be.stemmia/master/image/bestemmia.gif)
