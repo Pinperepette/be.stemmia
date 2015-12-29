@@ -16,4 +16,5 @@ Ti sarà capitato di far printare qualcosa in fase di debug... nell 99% dei casi
 
 ## Altri esempi - Bot Telegram che Bestemmia :)
 lo trovi nella cartela degli esempi 
+
 ![alt tag](https://raw.githubusercontent.com/Pinperepette/be.stemmia/master/image/bestemmia.gif)
