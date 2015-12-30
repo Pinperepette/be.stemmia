@@ -7,7 +7,7 @@ from config import TOKEN
 import be
 
 
-class DanieleBot(object):
+class BeBot(object):
     def __init__(self):
         self.base_url = "https://api.telegram.org/bot" + TOKEN + "/"
         self.offset = 0
@@ -38,7 +38,7 @@ class DanieleBot(object):
 
 
 def polling():
-    bot = DanieleBot()
+    bot = BeBot()
     print bot.get_me()
 
     while True:
