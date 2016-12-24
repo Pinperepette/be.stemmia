@@ -15,6 +15,6 @@ nasce dalla costante che il dev bestemmia, ed è pigro... questo connubio ha fat
 Ti sarà capitato di far printare qualcosa in fase di debug... nell 99% dei casi hai usato una bestemmia o una parolaccia
 
 ## Altri esempi - Bot Telegram che Bestemmia :)
-lo trovi nella cartela degli esempi 
+lo trovi nella cartella degli esempi 
 
 ![alt tag](https://raw.githubusercontent.com/Pinperepette/be.stemmia/master/image/bestemmia.gif)
